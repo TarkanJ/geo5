@@ -1,2 +1,2 @@
-# geo5
+# GEO5
 Survey/Geodetic application
