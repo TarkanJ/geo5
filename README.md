@@ -4,6 +4,8 @@ Survey/Geodetic application
 ## Upgrade legendárního geodetického programu GEO3 ;) 
 
 ## Funkce programu:
-Načtení bodů, vypsání bodů, hledání bodů...
+Načtení/vypsání, hledání bodů...
 
-Výpočet transformace bodu, směrníku(Helmert)
+Výpočet transformace bodu
+
+Výpočet směrníku(Helmert)
